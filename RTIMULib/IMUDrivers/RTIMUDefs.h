@@ -150,8 +150,8 @@
 
 #define MPU9250_ADDRESS0            0x68
 #define MPU9250_ADDRESS1            0x69
-// #define MPU9250_ID                  0x73		// XXX Scott Hack for 9255 MPU
-#define MPU9250_ID                  0x71		// XXX Scott Hack for 9255 MPU
+#define MPU9250_ID                  0x73		// XXX Scott Hack for 9255 MPU
+// #define MPU9250_ID                  0x71		// XXX Scott Hack for 9255 MPU
 
 #define AK8963_ADDRESS              0x0c
 
